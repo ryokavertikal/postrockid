@@ -1,1 +1,26 @@
 
+#logo {
+  color: whitesmoke;
+  text-transform: uppercase;
+  font-weight: bold;
+ }
+
+.navbar-toggler {
+  background: grey;
+  color: white;
+ }
+ 
+.navbar-toggler .navbar-toggler-icon {
+  color: white;
+ }
+ 
+ 
+#banner {
+  background: #EAADFF;
+  height: 100vh;
+  border-radius: 0;
+ }
+ 
+#banner h2 {
+  padding-top: 50%;
+ }
