@@ -6,8 +6,8 @@
  }
 
 .navbar-toggler {
-  background: grey;
-  color: white;
+  background: whitesmoke;
+  
  }
  
 .navbar-toggler .navbar-toggler-icon {
@@ -16,7 +16,7 @@
  
  
 #banner {
-  background: #EAADFF;
+  background: #fefefe;
   height: 100vh;
   border-radius: 0;
  }
