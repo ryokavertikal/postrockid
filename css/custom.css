@@ -1,25 +1,8 @@
-
-#logo {
-  color: whitesmoke;
-  text-transform: uppercase;
-  font-weight: bold;
- }
-
-.navbar-toggler {
-  background: whitesmoke;
-  
- }
- 
-.navbar-toggler .navbar-toggler-icon {
-  color: white;
- }
- 
- 
 #banner {
-  background: #fefefe;
+  margin-bottom: 350px;
   border-radius: 0;
  }
- 
+
 #banner h2 {
-  padding-top: 50%;
- }
+  padding-top: 70px;
+}  
