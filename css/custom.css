@@ -1,9 +1,20 @@
-#banner {
-  height: 100%;
+.jumbotron {
   border-radius: 0;
- }
+}
 
-#banner h2 {
-  padding-top: 70px;
-  
-}  
+#banner {
+  background:#dbf0e9;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+/*--- ABOUT ---*/
+
+.about {
+  margin-top: 85px;
+  margin-bottom: 185px;
+}
+
+.about h2 {
+  text-decoration: underline;
+}
