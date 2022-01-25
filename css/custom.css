@@ -1,20 +1,28 @@
-.jumbotron {
-  border-radius: 0;
+.dark {
+    background-color: #1A1A40;
 }
 
-#banner {
-  background:#dbf0e9;
-  padding-top: 125px;
-  padding-bottom: 125px;
+.navbar-burger {
+    color: white;
 }
 
-/*--- ABOUT ---*/
-
-.about {
-  margin-top: 85px;
-  margin-bottom: 185px;
+.navbar-menu {
+    background-color: #1A1A40;
 }
 
-.about h2 {
-  text-decoration: underline;
+.navbar-menu a.navbar-item:hover {
+    background-color: #242455;
+    ;
 }
+
+.footer {
+    background-color: #202060;
+}
+
+svg:hover {
+    background-color: #341677;
+    color: white;
+    border-radius: 10px;
+}
+
+@media (screen) {}
