@@ -1,5 +1,5 @@
 .dark {
-    background-color: #10b981;
+    background-color: #059669;
 }
 
 .navbar-burger {
@@ -7,7 +7,7 @@
 }
 
 .navbar-menu {
-    background-color: #1A1A40;
+    background-color: #047857;
 }
 
 .navbar-menu a.navbar-item:hover {
@@ -16,7 +16,7 @@
 }
 
 .footer {
-    background-color: #0f766e;
+    background-color: #047857;
 }
 
 svg:hover {
